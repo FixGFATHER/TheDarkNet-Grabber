@@ -1,7 +1,8 @@
 <h1 align="center">TheDarkNet Grabber</h1>
 
 <div align="center">
-  <img src="https://github.com/FixGFATHER/TheDarkNet-Grabber/assets/170175964/e2daf2e2-7d42-46c9-aca5-21ee266e086b" alt="GIF">
+  <img src=alt=![Uploading c98a630219cfe688adbf3ca148012e36-2215380649 (1).gif…]()
+"GIF">
   <h1 align="center">
   <br>
   <img src="https://img.shields.io/github/downloads/Smug246/TheDarkNet-Grabber/total?color=6d00c1">
