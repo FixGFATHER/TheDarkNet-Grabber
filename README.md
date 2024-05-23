@@ -146,8 +146,3 @@ TheDarkNet Grabber is distributed under the MIT License. See `LICENSE.md` for mo
 
 ![Star History Chart](https://api.star-history.com/svg?repos=Smug246/TheDarkNet-Grabber&type=Date)
 
-
-## Star Graph
-
-![Star History Chart](https://api.star-history.com/svg?repos=Smug246/TheDarkNet-Grabber&type=Date)
-
