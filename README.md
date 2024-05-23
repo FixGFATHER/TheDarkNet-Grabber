@@ -1,8 +1,9 @@
-<h1 align="center">TheDarkNet Grabber</h1>
+<h1 align="center">
+  <img src="https://i.postimg.cc/6TBQqwWL/c98a630219cfe688adbf3ca148012e36-2215380649-1.gif" alt="TheDarkNet Grabber Banner">
+</h1>
 
 <div align="center">
-  <img src="c98a630219cfe688adbf3ca148012e36-2215380649 (1).gif" alt="TheDarkNet Grabber GIF">
-  <h1 align="center">
+  <h1>TheDarkNet Grabber</h1>
   <br>
   <img src="https://img.shields.io/github/downloads/Smug246/TheDarkNet-Grabber/total?color=6d00c1">
   <img src="https://img.shields.io/github/stars/Smug246/TheDarkNet-Grabber?color=6d00c1&logoColor=6d00c1">
@@ -17,8 +18,8 @@
   <br>
   <p align="center">
   Telegram: https://t.me/lunaxsmug
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-</p>
+  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+  </p>
 </div>
 
 ## Features
@@ -116,9 +117,9 @@ The file you built will now appear in the current folder with the name you set.
 ## GUI
 
 <div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.ibb.co/LRwhrP8/image.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.ibb.co/VHzrWK0/image.png"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.ibb.co/stnGKp0/image.png"></img> 
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.postimg.cc/JGn43qBs/1.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.postimg.cc/Yhs2dW1b/2.png"></img> 
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.postimg.cc/xqg1b7qr/3.png"></img>  
 </div>
 
 ## Contributing
@@ -139,6 +140,11 @@ If you find an error that you cant fix and need help with you can submit an [iss
 
 ## License
 TheDarkNet Grabber is distributed under the MIT License. See `LICENSE.md` for more information.
+
+
+## Star Graph
+
+![Star History Chart](https://api.star-history.com/svg?repos=Smug246/TheDarkNet-Grabber&type=Date)
 
 
 ## Star Graph
