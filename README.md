@@ -116,10 +116,9 @@ The file you built will now appear in the current folder with the name you set.
 ## GUI
 
 <div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="path/to/your/image.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="path/to/your/1.png"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="path/to/your/2.png"></img>  
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="path/to/your/3.png"></img> 
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.ibb.co/LRwhrP8/image.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.ibb.co/VHzrWK0/image.png"></img> 
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.ibb.co/stnGKp0/image.png"></img> 
 </div>
 
 ## Contributing
@@ -145,3 +144,4 @@ TheDarkNet Grabber is distributed under the MIT License. See `LICENSE.md` for mo
 ## Star Graph
 
 ![Star History Chart](https://api.star-history.com/svg?repos=Smug246/TheDarkNet-Grabber&type=Date)
+
