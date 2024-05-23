@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.postimg.cc/6TBQqwWL/c98a630219cfe688adbf3ca148012e36-2215380649-1.gif" alt="TheDarkNet Grabber Banner">
+  <img src="https://i.postimg.cc/6TBQqwWL/c98a630219cfe688adbf3ca148012e36-2215380649-1.gif" alt="TheDarkNet Grabber Banner" width="800">
 </h1>
 
 <div align="center">
