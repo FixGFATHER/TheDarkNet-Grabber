@@ -1,11 +1,10 @@
 <h1 align="center">TheDarkNet Grabber</h1>
 
 <div align="center">
-  <img src=alt=![Uploading c98a630219cfe688adbf3ca148012e36-2215380649 (1).gif…]()
-"GIF">
+  <img src="https://i.ibb.co/stnGKp0/image.png" alt="TheDarkNet Grabber GIF">
   <h1 align="center">
   <br>
-  <img src=![image (5)](https://github.com/FixGFATHER/TheDarkNet-Grabber/assets/170175964/d870cc7f-c722-4366-8018-130eaa976d0a)
+  <img src="https://img.shields.io/github/downloads/Smug246/TheDarkNet-Grabber/total?color=6d00c1">
   <img src="https://img.shields.io/github/stars/Smug246/TheDarkNet-Grabber?color=6d00c1&logoColor=6d00c1">
   <img src="https://img.shields.io/github/forks/Smug246/TheDarkNet-Grabber?logoColor=6d00c1">
   <br>
@@ -117,9 +116,10 @@ The file you built will now appear in the current folder with the name you set.
 ## GUI
 
 <div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://example.com/image1.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://example.com/image2.png"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://example.com/image3.png"></img>  
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="path/to/your/image.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="path/to/your/1.png"></img> 
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="path/to/your/2.png"></img>  
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="path/to/your/3.png"></img> 
 </div>
 
 ## Contributing
