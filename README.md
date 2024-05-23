@@ -5,7 +5,7 @@
 "GIF">
   <h1 align="center">
   <br>
-  <img src="https://img.shields.io/github/downloads/Smug246/TheDarkNet-Grabber/total?color=6d00c1">
+  <img src=![image (5)](https://github.com/FixGFATHER/TheDarkNet-Grabber/assets/170175964/d870cc7f-c722-4366-8018-130eaa976d0a)
   <img src="https://img.shields.io/github/stars/Smug246/TheDarkNet-Grabber?color=6d00c1&logoColor=6d00c1">
   <img src="https://img.shields.io/github/forks/Smug246/TheDarkNet-Grabber?logoColor=6d00c1">
   <br>
