@@ -1,7 +1,7 @@
 <h1 align="center">TheDarkNet Grabber</h1>
 
 <div align="center">
-  <img src="https://i.ibb.co/stnGKp0/image.png" alt="TheDarkNet Grabber GIF">
+  <img src="https://i.ibb.co/ws2LWrf/image.png" alt="TheDarkNet Grabber Banner">
   <h1 align="center">
   <br>
   <img src="https://img.shields.io/github/downloads/Smug246/TheDarkNet-Grabber/total?color=6d00c1">
