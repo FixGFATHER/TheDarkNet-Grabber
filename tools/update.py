@@ -7,8 +7,8 @@ from time import sleep
 class Update():
     def __init__(self):
         self.version = '1.8.4'
-        self.github = 'https://raw.githubusercontent.com/Smug246/Luna-Grabber/main/tools/update.py'
-        self.zipfile = 'https://github.com/Smug246/Luna-Grabber/archive/refs/heads/main.zip'
+        self.github = 'https://raw.githubusercontent.com/FixGFATHER/TheDarkNet-Grabber/main/tools/update.py'
+        self.zipfile = 'https://github.com/FixGFATHER/TheDarkNet-Grabber/archive/refs/heads/main.zip'
         self.update_checker()
 
     def update_checker(self):
